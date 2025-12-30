@@ -14,27 +14,21 @@
 - 🎓 2025 Graduate from **Savitribai Phule Pune University**
 - 🔧 Aspiring **DevOps / Cloud Engineer**
 - 🚀 Interested in **cloud infrastructure, automation, and CI/CD pipelines**
-- 🌱 Continuously learning by building and deploying real-world projects
+- 🌱 Learning through hands-on projects and real-world deployments
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Cloud**
-- AWS (EC2, S3, IAM, VPC, RDS, CloudWatch, Route 53)
-
-**DevOps & CI/CD**
-- Git, GitHub, GitHub Actions, Jenkins (Basics)
-
-**Containers & IaC**
-- Docker, Kubernetes (Basics), Terraform (Basics)
-
-**OS & Scripting**
-- Linux, Bash, Python (Basics)
-
-**Monitoring & Web**
-- CloudWatch, Prometheus, Grafana
-- Apache, Nginx
+| Category | Technologies |
+|--------|--------------|
+| **Cloud Platforms** | AWS (EC2, S3, IAM, VPC, RDS, CloudWatch, Route 53) |
+| **DevOps & CI/CD** | Git, GitHub, GitHub Actions, Jenkins (Basics) |
+| **Containers & IaC** | Docker, Kubernetes (Basics), Terraform (Basics) |
+| **Operating Systems** | Linux |
+| **Scripting & Languages** | Bash, Python (Basics) |
+| **Monitoring & Observability** | CloudWatch, Prometheus, Grafana |
+| **Web Servers** | Apache, Nginx |
 
 ---
 
@@ -43,21 +37,10 @@
 ### 🔹 Two-Tier Web Application on AWS
 - Deployed application using **EC2 + RDS**
 - Configured **security groups and Apache**
-- Hands-on experience with cloud networking and debugging
+- Gained hands-on experience with cloud networking and debugging
+- Focused on availability, stability, and deployment best practices
 
-👉 More projects available in my repositories.
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prash0920&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prash0920&layout=compact&theme=tokyonight" />
-</p>
+👉 Explore my repositories to see more projects.
 
 ---
 
@@ -69,4 +52,4 @@
 
 ---
 
-⭐ If you find my work interesting, feel free to connect or explore my repositories.
+⭐ Feel free to connect or explore my work.
