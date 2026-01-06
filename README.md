@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/prashiik-manohare-346466241" target="_blank">LinkedIn</a> •
-  <a href="https://prashiks-devops-portfolio.vercel.app" target="_blank">Portfolio</a> •
+  <a href="https://prashiks-devops-porfolio.vercel.app/" target="_blank">Portfolio</a> •
   <a href="mailto:prashikmanohare99@gmail.com">Email</a>
 </p>
 
@@ -46,7 +46,7 @@
 
 ## 📫 Contact
 
-- 🌐 Portfolio: https://prashiks-devops-portfolio.vercel.app  
+- 🌐 Portfolio: https://prashiks-devops-porfolio.vercel.app/
 - 💼 LinkedIn: https://www.linkedin.com/in/prashiik-manohare-346466241  
 - 📧 Email: prashikmanohare99@gmail.com  
 
