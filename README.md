@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prashik Anil Manohar</h1>
-<h3 align="center">DevOps Engineer (Fresher) | AWS • Docker • CI/CD • Linux</h3>
+<h3 align="center">DevOps Engineer | AWS • Docker • CI/CD • Linux</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/prashiik-manohare-346466241" target="_blank">LinkedIn</a> •
