@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prashik Anil Manohar</h1>
+<h1 align="center">Hi 👋, I'm Prashik Anil Manohare</h1>
 <h3 align="center">DevOps Engineer | AWS • Docker • CI/CD • Linux</h3>
 
 <p align="center">
